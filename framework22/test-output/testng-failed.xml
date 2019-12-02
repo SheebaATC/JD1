@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [JSONSuite]">
+  <test name="TestJSON(failed)">
+    <classes>
+      <class name="testcases.JSONSample1">
+        <methods>
+          <include name="testAut"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- testcases.JSONSample1 -->
+    </classes>
+  </test> <!-- TestJSON(failed) -->
+</suite> <!-- Failed suite [JSONSuite] -->
