@@ -1,0 +1,20 @@
+[
+  {
+    "users":{
+      "username":"balakrishnan@american-technology.net",
+      "password":"ATCTech123!"
+    }
+  },
+  {
+    "users":{
+      "username":"doe@abc.com",
+      "password":"pwd@1234"
+      }
+  },
+  {
+    "users":{
+      "username":"henry@abc.com",
+      "password":"abcd@1234"
+    }
+  }
+  ]
